@@ -229,19 +229,3 @@ pip install thop
 ```
 
 Install the remaining dependencies according to the project's environment configuration.
-
-## Citation
-
-If you use this implementation or build upon this work, please cite the Lite-Mono paper:
-
-```bibtex
-@inproceedings{zhang2023lite,
-    title={Lite-Mono: A Lightweight CNN and Transformer Architecture
-           for Self-Supervised Monocular Depth Estimation},
-    author={Zhang, Ning and Nex, Francesco and Vosselman, George and Kerle, Norman},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision
-               and Pattern Recognition},
-    pages={18537--18546},
-    year={2023}
-}
-```
